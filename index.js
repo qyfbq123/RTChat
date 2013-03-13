@@ -1,5 +1,5 @@
 // Grab the modules we'll be using
-var http = require('http');
+ var http = require('http');
 var fs = require('fs');
 var io = require('socket.io');
 
